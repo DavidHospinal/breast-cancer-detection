@@ -116,6 +116,7 @@ breast-cancer-detection/
 ```
 
 ## Dataset
+<img width="1578" height="703" alt="image" src="https://github.com/user-attachments/assets/7af1c2e4-0eb9-4dbc-a349-edbe3160a510" />
 
 The model was trained on the Breast Cancer Detection Dataset from University of Ghana, available on Roboflow Universe.
 
@@ -150,6 +151,8 @@ This project uses the Breast Cancer Detection model from Roboflow Universe under
 Oscar David Hospinal R.
 Pontificia Universidad Catolica de Chile  
 oscardavid.hospinal@uc.cl
+
+
 
 ## Acknowledgments
 
