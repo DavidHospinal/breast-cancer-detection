@@ -2,6 +2,9 @@
 
 Object detection system for identifying benign and malignant tumors in breast ultrasound images using the Roboflow Inference API.
 
+![mamagif](https://github.com/user-attachments/assets/081cd2d4-970c-4349-a10a-cef9aa45cc43)
+
+
 ## Project Overview
 
 This project implements a breast cancer detection pipeline using a pre-trained computer vision model from Roboflow Universe. The system analyzes ultrasound images and classifies detected tumors as either benign or malignant.
@@ -144,7 +147,7 @@ This project uses the Breast Cancer Detection model from Roboflow Universe under
 
 ## Author
 
-Oscar David Hospinal Jurado  
+Oscar David Hospinal R.
 Pontificia Universidad Catolica de Chile  
 oscardavid.hospinal@uc.cl
 
