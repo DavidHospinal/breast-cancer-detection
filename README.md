@@ -152,6 +152,7 @@ Oscar David Hospinal R.
 Pontificia Universidad Catolica de Chile  
 oscardavid.hospinal@uc.cl
 
+![Banner Hospinal Systems](https://github.com/user-attachments/assets/af045a4a-3b3c-4ce7-b27a-80885ffcad0f)
 
 
 ## Acknowledgments
